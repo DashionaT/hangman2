@@ -1,0 +1,11 @@
+Phone Brands
+apple
+samsung
+nokia
+sony
+lg
+htc
+motorola
+huawei
+microsoft
+google

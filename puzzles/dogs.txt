@@ -1,0 +1,21 @@
+Dogs
+beagle
+bulldog
+poodle
+german shepherd
+rottweiler
+great dane
+chihuahua
+pug
+chow chow
+pit bull
+labrador retriever
+golden retriever
+doberman pinscher
+dachshund
+siberian husky
+boxer
+border collie
+english mastiff
+yorkshire terrier
+shih tzu
